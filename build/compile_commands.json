@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/src -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/ITPLib -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/main.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/src -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/ITPLib -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/movie.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/src/movie.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/src/movie.cpp",
+  "output": "src/CMakeFiles/src.dir/movie.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/src -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/ITPLib -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/tests/../src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o tests/CMakeFiles/tests.dir/catch.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/tests/catch.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/tests/catch.cpp",
+  "output": "tests/CMakeFiles/tests.dir/catch.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/src -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/ITPLib -I/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/tests/../src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o tests/CMakeFiles/tests.dir/studentTests.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/tests/studentTests.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p4-dominicrosby/tests/studentTests.cpp",
+  "output": "tests/CMakeFiles/tests.dir/studentTests.cpp.o"
+}
+]
